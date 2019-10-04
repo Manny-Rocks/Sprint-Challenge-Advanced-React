@@ -13,4 +13,4 @@ export default function SoccerCardsMaker(props) {
     )
     
 }
-export const add = (num1, num2) => num1 + num2;
+export const Add = (num1, num2) => num1 + num2;
